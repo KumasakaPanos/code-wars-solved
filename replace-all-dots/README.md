@@ -1,11 +1,10 @@
-https://www.codewars.com/kata/fixme-replace-all-dots/train/javascript
+Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.
 
-The code provided is supposed replace all the dots . in the specified String str with dashes -
+The output should be two capital letters with a dot seperating them.
 
-But it's not working properly.
+It should look like this:
 
-Task
-Fix the bug so we can all go home early.
+Sam Harris => S.H
 
-Notes
-String str will never be null.sss
+Patrick Feeney => P.F
+
